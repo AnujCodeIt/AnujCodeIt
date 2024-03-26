@@ -1,9 +1,6 @@
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">, I'm Anuj</h1> -->
-
 <h1 align="center">Hi,👋🏻 I'm Anuj</h1>
-<!-- Social Media ICons -->
 
 ## **🔗Connect with me ➜**
 
@@ -21,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on: **_projects related to web development_**
 
-- 🥅 2024 Goals: Get **_job_** in tech and make some muscles 
+- 🥅 2024 Goals: Get **_job_** in tech and make some muscles
 
 - 📫 How to reach me: **imanujgupta@proton.me**
 
@@ -41,8 +38,7 @@
   <img align="center" src="https://img.icons8.com/nolan/64/markdown.png" alt="c icon" height="53" width="45" />&ensp;
 </div>
 
-## **📚Frameworks / Libraries / Database ➜**
-
+<!-- ## **📚Frameworks / Libraries / Database ➜** -->
 
 ## **⚒️Other Tools➜**
 
@@ -53,4 +49,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/>&ensp;
 </div>
 
-## **📉Quick Stats ➜**
+<!-- ## <strong>📉Quick Stats ➜</strong> -->
