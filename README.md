@@ -44,7 +44,6 @@
 
 <div align="center">
   <img src="https://img.icons8.com/nolan/96/visual-studio.png" alt="linux" width="40" height="40"/>&ensp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="38" height="38"/>&ensp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"/>&ensp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/>&ensp;
 </div>
