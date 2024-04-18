@@ -1,6 +1,6 @@
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
-<h1 align="center">Hi,👋🏻 I'm Anuj</h1>
+<h1 align="center">Hi, <img align="center" class="hello" src="./logo/hello.gif" height="40" width="40"/> I'm Anuj</h1>
 
 ## **🔗Connect with me ➜**
 
@@ -32,10 +32,11 @@
 ## **💻Programming Languages ➜**
 
 <div align="center">
-  <img align="center" src="https://img.icons8.com/dusk/50/000000/python.png" alt="python icon" height="40" width="40" />&ensp;
-  <img align="center" src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="html icon" height="43" width="42" />&ensp;
-  <img align="center" src="https://img.icons8.com/color/50/000000/css3.png" alt="css icon" height="43" width="42" />&ensp;
-  <img align="center" src="https://img.icons8.com/nolan/64/markdown.png" alt="c icon" height="53" width="45" />&ensp;
+  <img align="center" src="./logo/python.gif" alt="python icon" height="40" width="40" />&ensp;
+  <img align="center" src="./logo/html.gif" alt="html icon" height="43" width="auto" />&ensp;
+  <img align="center" src="./logo/css.gif" alt="css icon" height="43" width="auto" />&ensp;
+  <img align="center" src="./logo/js.gif" alt="Js icon" height="47" width="auto" />&ensp;
+  <img align="center" src="./logo/markdown.gif" alt="c icon" height="38" width="auto" />&ensp;
 </div>
 
 <!-- ## **📚Frameworks / Libraries / Database ➜** -->
@@ -43,9 +44,21 @@
 ## **⚒️Other Tools➜**
 
 <div align="center">
-  <img src="https://img.icons8.com/nolan/96/visual-studio.png" alt="linux" width="40" height="40"/>&ensp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"/>&ensp;
+  <img src="./logo/vscode.gif" alt="linux" width="40" height="40"/>&ensp;
+  <img src="./logo/git.gif" alt="git" width="auto" height="40"/>&ensp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/>&ensp;
 </div>
 
 <!-- ## <strong>📉Quick Stats ➜</strong> -->
+<style>
+
+img{
+  cursor:pointer;
+  padding: 2px;
+}
+
+.hello{
+  padding:0;
+  margin-bottom:5px;
+}
+</style>
