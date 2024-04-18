@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href= "https://twitter.com/anujcodes_25">
-  <img align="center" src="https://img.icons8.com/stickers/100/000000/twitter.png" alt="twitter icon" height="40" width="40" /></a>&ensp;
+  <img align="center" src="./logo/twitter.gif" alt="twitter icon" height="40" width="40" /></a>&ensp;
 </div>
 
 ![](https://i.imgur.com/waxVImv.png)
